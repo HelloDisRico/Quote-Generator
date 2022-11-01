@@ -1,0 +1,36 @@
+body{
+    background-color: #54555af1;
+}
+#container {
+    background-color: #03136e;
+    border: 5px solid black;
+    height: 255px;
+    width: 750px;
+    margin:0 auto;
+    text-align: center;
+}
+#container1 {
+    background-color: white;
+    margin: 0 auto;
+    border: 5px solid black;
+    height: 200px;
+    width: 750px;
+    display: flex;
+    font-size: 40px;
+    font-family: 'Arial';
+    text-align: right;
+}
+#btn {
+    margin:50px auto;
+    height: 50px;
+    width: 250;
+    font-size: 22px;
+    background-color: rgb(255, 255, 255);
+
+}
+#output{
+    margin: 25px;
+    font-size: 26px;
+    color: white;
+    font-family: 'Arial'
+}
